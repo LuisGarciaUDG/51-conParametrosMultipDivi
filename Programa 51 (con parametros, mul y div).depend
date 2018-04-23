@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1430262725 source:c:\users\luis\dropbox\inco\programación\programa 51 (con parametros, mul y div)\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+
